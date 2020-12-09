@@ -5,7 +5,7 @@
 My name is Kushagra Sharma. I'm a junior undergraduate :mortar_board: in Computer Science and Engineering at IIT Gandhinagar. I have an interest in software development :computer: and this is the place where I opensource projects. In my free moments, I love playing the :guitar:, :headphones: to music or catching up on the latest :spider_web: series. 
 
 <p align='center'>
-<a href="http://instagram.com/antimattercorrade"><img height="40" src="icons/insta.png"></a>&nbsp;&nbsp;
+<a href="http://instagram.com/antimatter_corrade"><img height="40" src="icons/insta.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kushagrasharma13/"><img height="40" src="icons/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/kushagra.sharma.71465572"><img height="40" src="icons/fb.png"></a>&nbsp;&nbsp;
 <a href="mailto:kush991013@gmail.com"><img height="40" src="icons/gmail.png"></a>
@@ -32,7 +32,7 @@ My name is Kushagra Sharma. I'm a junior undergraduate :mortar_board: in Compute
 <img align="center" alt="C++" width="50" src="icons/cpp.png" /> &nbsp;&nbsp;
 <img align="center" alt="Python" width="50" src="icons/python.png" />&nbsp;&nbsp;
 <img align="center" alt="Linux" width="50" src="icons/linux.png" />&nbsp;&nbsp;
-<img align="center" alt="C" width="50" src="icons/c.png" />&nbsp;&nbsp;
+<img align="center" alt="C" width="50" src="icons/c.webp" />&nbsp;&nbsp;
 <img align="center" alt="HTML5" width="50" src="icons/html.png" />&nbsp;&nbsp;
 <img align="center" alt="CSS3" width="50" src="icons/css.png" />&nbsp;&nbsp;
 <img align="center" alt="JavaScript" width="50" src="icons/javascript.png" />&nbsp;&nbsp;
