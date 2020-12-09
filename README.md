@@ -1,4 +1,4 @@
-[![Header](header.png "Header")](https://github.com/antimattercorrade)
+[![Header](header.gif "Header")](https://github.com/antimattercorrade)
 
 ## Hi there! <img src="wave.gif" width="30px">
 
