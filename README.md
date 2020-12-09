@@ -2,7 +2,7 @@
 
 ## Hi there! <img src="wave.gif" width="30px">
 
-My name is Kushagra Sharma. I'm a junior undergraduate :mortar_board: in Computer Science and Engineering at IIT Gandhinagar. I have an interest in software development :computer: and this is the place where I opensource projects. In my free moments, I love playing the :guitar:, :headphones: to music or catching up on the latest :spider_web: series. 
+I'm Kushagra Sharma, a junior undergraduate :mortar_board: in Computer Science and Engineering at IIT Gandhinagar. I have an interest in software development :computer: and this is the place where I opensource projects. In my free moments, I love playing the :guitar:, :headphones: to music or catching up on the latest :spider_web: series. 
 
 <p align='center'>
 <a href="http://instagram.com/antimatter_corrade"><img height="40" src="icons/insta.png"></a>&nbsp;&nbsp;
