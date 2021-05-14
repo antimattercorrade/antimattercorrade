@@ -41,6 +41,7 @@ I'm Kushagra Sharma, a junior undergraduate :mortar_board: in Computer Science a
 <img align="center" alt="MySQL" width="50" src="icons/mysql.png" />&nbsp;&nbsp;
 <img align="center" alt="MongoDB" width="50" src="icons/mongodb.png" />&nbsp;&nbsp;
 <img align="center" alt="Git" width="50" src="icons/git.png" />&nbsp;&nbsp;
+<img align="center" alt="NetLogo" width="50" src="icons/netlogo.png" />&nbsp;&nbsp;
 </p>
 
 <br>
