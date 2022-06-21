@@ -1,6 +1,6 @@
 [![Header](header.gif "Header")](https://github.com/antimattercorrade)
 
-## Hi there! <img src="wave.gif" width="30px">
+## Hi there! <img src="wave.gif" height="40px">
 
 I'm Kushagra Sharma, a final year undergraduate :mortar_board: in Computer Science and Engineering at IIT Gandhinagar. I have an interest in software development :computer: and this is the place where I open source projects. In my free moments, I love playing the :guitar:, :headphones: to music or catching up on the latest :spider_web: series. 
 
